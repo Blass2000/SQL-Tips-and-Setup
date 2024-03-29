@@ -3,7 +3,7 @@ General overview of getting started with SQL and a few tools to boot. It is alwa
 
 # SQL 101: Beginner's Guide to SQL Database Programming
 
-Welcome to the SQL 101 repository, your beginner's guide to SQL database programming. Whether you're new to databases or have some programming experience, this repository provides step-by-step guidance, code examples, exercises, and resources to help you master SQL. Let's unlock the power of data with SQL!
+Welcome to the SQL 101 repository, your beginner's guide to SQL database programming. Whether you're new to databases or have some programming experience, this repository provides step-by-step guidance, code examples, exercises, and resources to help you master SQL. Lets Gooooo!
 
 ## Table of Contents
 1. [Installation Guide](#installation-guide)
