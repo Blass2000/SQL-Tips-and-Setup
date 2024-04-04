@@ -1,7 +1,7 @@
 # WS SQL-Tips-and-Setup
 General overview of getting started with SQL and a few tools to boot. It is always a dream of a project leader to know that they have a team that understands the basics of SQL and data maipulation. I have worked on the leadership and development teams and here are just a few SQL related processes that should be well known 
 
-# SQL 101: Beginner's Guide to SQL Database Programming
+# SQL 101: Simple SQL Database Programming
 
 Welcome to my SQL 101 repository, your beginner's guide to SQL database programming. Whether you're new to databases or have some programming experience, this repository provides step-by-step guidance, code examples, exercises, and resources to help you master SQL. Lets Gooooo!
 
